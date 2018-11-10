@@ -6,5 +6,5 @@ int main()
 {
     float a;
     scanf("%f", &a);
-    printf("%.2f", a * 30.48f
+    printf("%.2f", a * 30.48f);
 }
